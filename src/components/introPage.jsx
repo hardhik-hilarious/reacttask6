@@ -18,7 +18,7 @@ const IntroPage = () => {
                 </div>
             </div>
             <div className='bg-red-100 rounded-full overflow-hidden h-60 w-60 flex justify-center items-center'>
-                <img src={myProfile} />
+                <img src="https://lh3.googleusercontent.com/pw/ADCreHeCG1MQLQSIJy_O2cnfEhS2ZdhU4IEjLUwmirV6efIGEFQFGvOdqGBwdmY1ErlcgMGYaOWfBKRLpBPmcPBJUFYmDjHqwndLhtlEK53xxK87h8h8rV0-cGmVhljJ8ytWyNgtGMPSaF67Sq2S78gNQCfVQb4IosnvpWUDkaKNFhJLGK4gEir0h0waMAhsQ0_YNB1YMqklQ4SSz1CJJHYiAdMCv3P4pg5ZKqVnx7VVEu6uHNnngfJCEsgMfvG72-ZS3ByEn6vLTaOdjp4hNHGfF63POYA6ds6WYxIpTOl4osSRFEP9zMasxXlF-eQbGTkfI-6ugaVT0UVhHPMkJrYf8zIzLUJJ9IAsJ7_1LuvhivN8DGZu6a6mLXaEkL80_feliqypIJd9erFSemwTQRD_DpqAoU7PB3PYRt9mVcfgYOUMrw9q1KyDDh_Lg4FEABctos7SqACZc6ebL2wpHJjZW8NsbEW-UBpWx0UJz1hg2EIm9-bPca0P8lwSqxCELFucJqVzuKhH_XbtQKDZWIQTzswXw1Xi1xFwLhkeNkuFvWkhcPiGtvBvf1Zt5lkfaU_SN9seBziFOLZJj4k1N5pdsruJtBj_tjVnW7OTiWueVmGr9eB2P1yC0DDxMKhOuchb_dUTCs8dhBYUSAI9sww-bq429SFJJd0R04B2Ls-G4swNupzOmQVff4FoVa6q7TSMqQmwfZHgy4i3lwRep8hkV8zlBahP0PJqfysrsmdIuJ9yabZZkzokEorPbvCG1kmp_w92CPmMy-n53ubC68xGURukCiHKtVTAjthTTG8Ix536plZ7azemLTONwNMLDVMl7yumGAoGzbl_9tB2NC0RVf14pqS0ur4EWambxIF58CCP1ZE1L6SBdzcwgoEfu8I82flRE1VpSRCmyXDfZZAwDM3TGLi9rVNinaI9ghC48RWIihX1KOn_cJ2-3ZOQE_ERlkSJdB_SVQLq60WqAq2GmlWAhDkM8Q=w659-h878-s-no-gm?authuser=2" />
             </div>
         </section>
     )
